@@ -13,7 +13,7 @@ headers = {
 telegram_token = 'bot1723101065:AAGsRxTnFo8jPZvlHR9IwHxhD44xb-Lkto8'
 
 # Укажите чат id в который необходимо отправлять данные
-telegram_chat_id = '-1001359009051'
+telegram_chat_id = '-1001188577949'
 
 #Укажите URL для парсинга, так-же укажите все необходимые фильтры если необходимо
 base_url = 'https://www.olx.ua/uk/nedvizhimost/kvartiry-komnaty/arenda-kvartir-komnat/kvartira/khmelnitskiy/?search%5Bfilter_float_price%3Afrom%5D=3000&search%5Bfilter_float_price%3Ato%5D=4000&search%5Bfilter_float_total_area%3Ato%5D=55&search%5Bfilter_float_number_of_rooms%3Ato%5D=2&search%5Border%5D=created_at%3Adesc'
